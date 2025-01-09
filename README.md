@@ -1,0 +1,1 @@
+This repository contains examples of uncommon SQL errors related to data types, aggregate functions, and implicit type conversions.  The `bug.sql` file demonstrates these errors, while `bugSolution.sql` shows how to correct them.  Understanding these issues is crucial for writing robust and efficient SQL queries.
